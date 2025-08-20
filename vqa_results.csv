@@ -1,0 +1,51 @@
+image,question,answers,prediction,EM,BLEU
+img1.jpg,What color is the airplane?,"['white', 'a white airplane']",white,1,0.3535533905932738
+img2.jpg,Where is the airplane?,"['in the sky', 'in the air']",in sky,0,0.21444097124017672
+img3.jpg,What is the airplane doing?,"['flying over the mountains', 'flying in the sky']",flying,0,0.017602386829157428
+img4.jpg,What type of airplane is this?,"['commercial', 'passenger airplane']",passenger plane,0,0.2973017787506803
+img5.jpg,What type of airplane is this?,"['private', 'Private jet']",jet,0,0.3535533905932738
+img6.jpg,What color is the bed?,"['white', 'white bed with white mattress']",white,1,0.3535533905932738
+img7.jpg,What is on the bed?,"['pillows', 'a few pillow']",pillows,1,0.3535533905932738
+img8.jpg,What is the bed made of?,"['wood', 'wooden bed frame']",wood,1,0.3535533905932738
+img9.jpg,What type of bed is this?,"['queen size', 'queen size bed']",wooden,0,0
+img10.jpg,What color is the pillow on the bed?,"['red', 'red pillow']",red,1,0.3535533905932738
+img11.jpg,What color is the camera?,"['black', 'black camera']",black,1,0.3535533905932738
+img12.jpg,What is the camera used for?,"['photography', 'taking pictures']",photography,1,0.3535533905932738
+img13.jpg,What type of camera is this?,"['digital', 'digital camera']",olympus,0,0
+img14.jpg,What is the maximum zoom on this camera?,"['5X', '5 times zoom']",10,0,0
+img15.jpg,What is the camera mounted on?,"['tripod', 'a tripod']",tripod,1,0.3535533905932738
+img16.jpg,What color is the car?,"['white', 'white car']",white,1,0.3535533905932738
+img17.jpg,What type of car is this?,"['sports', 'two-door sports red car']",race car,0,0.2973017787506803
+img18.jpg,What is the car parked on?,"['road', 'on the road']",dirt,0,0
+img19.jpg,What is the car doing?,"['driving', 'moving']",driving,1,0.3535533905932738
+img20.jpg,What type of car is this?,"['a Ferrari', 'Sports car']",ferrari,0,0
+img21.jpg,What color is the zebra?,"['black and white', 'black and white stripes']",black and white,1,0.8408964152537145
+img22.jpg,What are the zebras doing?,"['standing in grass', 'hugging each other']",standing,0,0.04784824825520547
+img23.jpg,how many zebras?,"['two', 'Two. Probably Mother and child']",2,0,0
+img24.jpg,What is the zebra standing next to?,"['grass', 'next to grass']",grass,1,0.3535533905932738
+img25.jpg,What type of animals are these?,"['zebra', 'Three zebras']",zebras,0,0.3535533905932738
+img26.jpg,What color is the telephone?,"['golden', 'gold amd white telephone']",gold,0,0.3535533905932738
+img27.jpg,What is the telephone used for?,"['communication', 'making calls']",calling,0,0
+img28.jpg,What type of telephone is this?,"['landline', 'landline telephone']",rotary,0,0
+img29.jpg,What is the telephone mounted on?,"['table', 'mounted on table']",table,1,0.3535533905932738
+img30.jpg,What is the telephone color?,"['green', 'green telephone']",green,1,0.3535533905932738
+img31.jpg,What sport is being played?,"['cricket', 'A game of cricket']",cricket,1,0.3535533905932738
+img32.jpg,What is the player doing?,"['batting', 'hitting the ball']",hitting ball,0,0.3535533905932738
+img33.jpg,What is the player wearing?,"['white uniform', 'white cricket uniform']",helmet,0,0
+img34.jpg,What is the player holding?,"['bat', 'a cricket bat']",bat,1,0.3535533905932738
+img35.jpg,What is the player doing?,"['hitting the ball', 'hitting the cricket ball']",batting,0,0
+img36.jpg,What is the food item?,"['pizza', 'a thick crust pizza']",pizza,1,0.3535533905932738
+img37.jpg,What is the food item?,"['fried chicken with sunny side up', 'fried chicken and egg']",chicken,0,0.017602386829157428
+img38.jpg,What is the food color?,"['yellow', 'yellow food']",yellow,1,0.3535533905932738
+img39.jpg,What is the food item?,"['Chicken and rice', 'a big plate of chicken and rice']",chicken,0,0.04784824825520547
+img40.jpg,What is the food item?,"['Chicken and rice', 'a plate of chicken and rice with bread on the side as well as sauces']",rice,0,0.04784824825520547
+img41.jpg,What color is the chair?,"['brown and white', 'brown and white wooden chair']",brown,0,0.04784824825520547
+img42.jpg,What is the chair made of?,"['wood and leather', 'wooden chair with leather covering']",leather,0,0.04784824825520547
+img43.jpg,What type of chair is this?,"['Lounge chair', 'Grey lounge chair']",chaise lounge,0,0.2973017787506803
+img44.jpg,What is the chair used for?,"['sitting', 'for sitting']",sitting,1,0.3535533905932738
+img45.jpg,What color is the chair?,"['grey', 'grey chair']",black,0,0
+img46.jpg,What color is the clock?,"['white', 'white wall clock']",white and gold,0,0.2259005009024612
+img47.jpg,What is the clock used for?,"['telling time', 'to tell time']",to tell time,1,0.8408964152537145
+img48.jpg,What type of clock is this?,"['Table clock', 'a Table clock']",alarm,0,0
+img49.jpg,What is the clock mounted on?,"['wall', 'mounted on wall']",wall,1,0.3535533905932738
+img50.jpg,What color is the clock?,"['Bronze', 'bronze table clock']",gold,0,0

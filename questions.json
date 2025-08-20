@@ -1,0 +1,252 @@
+[
+  {
+    "image": "airplane1.jpg",
+    "question": "What color is the airplane?",
+    "answers": ["white", "a white airplane"]
+  },
+  {
+    "image": "airplane2.jpg",
+    "question": "Where is the airplane?",
+    "answers": ["in the sky", "in the air"] 
+  },
+  {
+    "image": "airplane4.jpg",
+    "question": "What is the airplane doing?",
+    "answers": ["flying over the mountains", "flying in the sky"]
+  },
+  {
+    "image": "airplane3.jpg",
+    "question": "What type of airplane is this?",
+    "answers": ["commercial", "passenger airplane"]
+  },
+  {
+    "image": "airplane5.jpg",
+    "question": "What type of airplane is this?",
+    "answers": ["private", "Private jet"]
+  },
+  {
+    "image": "bed1.jpg",
+    "question": "What color is the bed?",
+    "answers": ["white", "white bed with white mattress"]
+  },
+  {
+    "image": "bed2.jpg",
+    "question": "What is on the bed?",
+    "answers": ["pillows", "a few pillow"]
+  },
+  {
+    "image": "bed3.jpg",
+    "question": "What is the bed made of?",
+    "answers": ["wood", "wooden bed frame"]
+  },
+  {
+    "image": "bed4.jpg",
+    "question": "What type of bed is this?",
+    "answers": ["queen size", "queen size bed"]
+  },
+  {
+    "image": "bed5.jpg",
+    "question": "What color is the pillow on the bed?",
+    "answers": ["red", "red pillow"]
+  },
+  {
+    "image": "camera1.jpg",
+    "question": "What color is the camera?",
+    "answers": ["black", "black camera"]
+  },
+    {
+        "image": "camera2.jpg",
+        "question": "What is the camera used for?",
+        "answers": ["photography", "taking pictures"]
+    },
+    {
+        "image": "camera3.jpg",
+        "question": "What type of camera is this?",
+        "answers": ["digital", "digital camera"]
+    },
+    {
+        "image": "camera4.jpg",
+        "question": "What is the maximum zoom on this camera?",
+        "answers": ["5X", "5 times zoom"]
+    },
+    {
+        "image": "camera5.jpg",
+        "question": "What is the camera mounted on?",
+        "answers": ["tripod", "a tripod"]
+    },
+    {
+        "image": "car1.jpg",
+        "question": "What color is the car?",
+        "answers": ["white", "white car"]
+    },
+    {
+        "image": "car2.jpg",
+        "question": "What type of car is this?",        
+        "answers": ["sports", "two-door sports red car"]
+    },
+    {
+        "image": "car3.jpg",
+        "question": "What is the car parked on?",
+        "answers": ["road", "on the road"]
+    },
+    {
+        "image": "car4.jpg",
+        "question": "What is the car doing?",
+        "answers": ["driving", "moving"]
+    },
+    {
+        "image": "car5.jpg",
+        "question": "What type of car is this?",
+        "answers": ["a Ferrari", "Sports car"]
+    },
+    {
+        "image": "zebra1.jpg",
+        "question": "What color is the zebra?",
+        "answers": ["black and white", "black and white stripes"]
+    },
+    {
+        "image": "zebra2.jpg",
+        "question": "What are the zebras doing?",
+        "answers": ["standing in grass", "hugging each other"]
+    },
+    {
+        "image": "zebra3.jpg",
+        "question": "how many zebras?",
+        "answers": ["two", "Two. Probably Mother and child"]
+    },
+    {
+        "image": "zebra4.jpg",
+        "question": "What is the zebra standing next to?",
+        "answers": ["grass", "next to grass"]
+    },
+    {
+        "image": "zebra5.jpg",
+        "question": "What type of animals are these?",
+        "answers": ["zebra", "Three zebras"]
+    },
+    {
+        "image": "telephone1.jpg",
+        "question": "What color is the telephone?",
+        "answers": ["golden", "gold amd white telephone"]
+    },
+    {
+        "image": "telephone2.jpg",
+        "question": "What is the telephone used for?",
+        "answers": ["communication", "making calls"]
+    },
+    {
+        "image": "telephone3.jpg",
+        "question": "What type of telephone is this?",
+        "answers": ["landline", "landline telephone"]
+    },
+    {
+        "image": "telephone4.jpg",
+        "question": "What is the telephone mounted on?",
+        "answers": ["table", "mounted on table"]
+    },
+    {
+        "image": "telephone5.jpg",
+        "question": "What is the telephone color?",
+        "answers": ["green", "green telephone"]
+    },
+    {
+        "image": "sports1.jpg",
+        "question": "What sport is being played?",
+        "answers": ["cricket", "A game of cricket"]
+    },
+    {
+        "image": "sports2.jpg",
+        "question": "What is the player doing?",
+        "answers": ["batting", "hitting the ball"]
+    },
+    {
+        "image": "sports3.jpg",
+        "question": "What is the player wearing?",
+        "answers": ["white uniform", "white cricket uniform"]
+    },
+    {
+        "image": "sports4.jpg",
+        "question": "What is the player holding?",
+        "answers": ["bat", "a cricket bat"]
+    },
+    {
+        "image": "sports5.jpg",
+        "question": "What is the player doing?",
+        "answers": ["hitting the ball", "hitting the cricket ball"]
+    },
+    {
+        "image": "food1.jpg",
+        "question": "What is the food item?",
+        "answers": ["pizza", "a thick crust pizza"]
+    },
+    {
+        "image": "food2.jpg",
+        "question": "What is the food item?",
+        "answers": ["fried chicken with sunny side up", "fried chicken and egg"]
+    },
+    {
+        "image": "food3.jpeg",
+        "question": "What is the food color?",
+        "answers": ["yellow", "yellow food"]
+    },
+    {
+        "image": "food4.jpg",
+        "question": "What is the food item?",
+        "answers": ["Chicken and rice", "a big plate of chicken and rice"]
+    },
+    {
+        "image": "food5.jpg",
+        "question": "What is the food item?",
+        "answers": ["Chicken and rice", "a plate of chicken and rice with bread on the side as well as sauces"]
+    },
+    {
+        "image": "chair1.jpg",
+        "question": "What color is the chair?",
+        "answers": ["brown and white", "brown and white wooden chair"]
+    },
+    {
+        "image": "chair2.jpg",
+        "question": "What is the chair made of?",
+        "answers": ["wood and leather", "wooden chair with leather covering"]
+    },
+    {
+        "image": "chair3.jpg",
+        "question": "What type of chair is this?",
+        "answers": ["Lounge chair", "Grey lounge chair"]
+    },
+    {
+        "image": "chair4.jpg",
+        "question": "What is the chair used for?",
+        "answers": ["sitting", "for sitting"]
+    },
+    {
+        "image": "chair5.jpg",
+        "question": "What color is the chair?",
+        "answers": ["grey", "grey chair"]
+    },
+    {
+        "image": "clock1.jpg",
+        "question": "What color is the clock?",
+        "answers": ["white", "white wall clock"]
+    },
+    {
+        "image": "clock2.jpeg",
+        "question": "What is the clock used for?",
+        "answers": ["telling time", "to tell time"]
+    },
+    {
+        "image": "clock3.jpg",
+        "question": "What type of clock is this?",
+        "answers": ["Table clock", "a Table clock"]
+    },
+    {
+        "image": "clock4.jpg",
+        "question": "What is the clock mounted on?",
+        "answers": ["wall", "mounted on wall"]
+    },
+    {
+        "image": "clock5.jpg",
+        "question": "What color is the clock?",
+        "answers": ["Bronze", "bronze table clock"]
+    }
+]
